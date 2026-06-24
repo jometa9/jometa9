@@ -8,4 +8,4 @@ I'm Joaquín, a full-stack software engineer from Argentina.
 ## Main projects
 
 * 🚀 **5MTrader** — https://5mtrader.com
-* 📈 **IPTradeCopier** — https://iptradecopier.com
+* 📈 **IPTRADE** — https://iptradecopier.com
